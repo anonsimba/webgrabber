@@ -1,0 +1,17 @@
+C:\Users\cbasi\source\repos\Web Grabber\bin\Release\Web Garabber.exe.config
+C:\Users\cbasi\source\repos\Web Grabber\bin\Release\Web Garabber.exe
+C:\Users\cbasi\source\repos\Web Grabber\bin\Release\Web Garabber.pdb
+C:\Users\cbasi\source\repos\Web Grabber\bin\Release\Web Garabber.xml
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web Garabber.vbprojAssemblyReference.cache
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web_Garabber.BlockWeb.resources
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web_Garabber.Browser.resources
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web_Garabber.Downloadweb.resources
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web_Garabber.Login.resources
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web_Garabber.MyMenu.resources
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web_Garabber.Resources.resources
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web_Garabber.urlparsing.resources
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web Garabber.vbproj.GenerateResource.cache
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web Garabber.vbproj.CoreCompileInputs.cache
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web Garabber.exe
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web Garabber.xml
+C:\Users\cbasi\source\repos\Web Grabber\obj\Release\Web Garabber.pdb
