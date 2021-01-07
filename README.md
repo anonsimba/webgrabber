@@ -30,7 +30,7 @@ Designed in **VB.NET** in **Visual Studio 2019** to perform specific tasks and f
 ######  3. Run Web Grabber Exe using Admin Rights
 ######  4. Use username and password as *admin* to login
 
-##Other Details
+## Other Details
 Designed by [Basim Ibrahim](https://github.com/basimci "Basim Ibrahim")
 Licence: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html "GNU GPLv3")
 Designed Using : [Visual Studio 2019](https://visualstudio.microsoft.com/vs/ "Visual Studio 2019")
